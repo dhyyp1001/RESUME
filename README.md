@@ -6,10 +6,10 @@
 
 ## 소개
 ![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
+- 이름: 최소리
+- 군필여부: 군대 다녀온 것 같이 정신을 무장
+- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑 뺴고 전부 다
+- Email: sorilove@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 ```
@@ -19,43 +19,22 @@
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
+곧 들갑니다
 
 ## 단체경력
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
+단체모임 싫어합니다
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+괜찮습니다
 
 ## 사용 기술
-### Android
-- Kotlin, Kotlin DSL
-- Dagger
-- rxJava
-- Epoxy
-- MVP, MVVM, MvRx Pattern
-- DataBinding
-- lint + test code
+기술 좋습니다
 
 ### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
+
 
 ### Frontend
-간단한 프로토타입을 만들거나, 도메인의 구현을 참고할 수 있을 정도의 스킬을 가지고 있습니다.
-- React / KotlinJS
+
 
 그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
 - 팀 : 기능조직 / 목적조직 / 스쿼드
