@@ -5,7 +5,7 @@
 ![status](https://img.shields.io/badge/hired-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지]()
 - 이름: 최소리
 - 군필여부: 군대 다녀온 것 같이 정신을 무장
 - 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑 뺴고 전부 다
