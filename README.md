@@ -6,8 +6,8 @@
 
 ## 소개
 ![프로필이미지]()
-- 이름: 최소리
-- 군필여부: 군대 다녀온 것 같이 정신을 무장
+- 이름: 이동현
+- 군필여부: 병장 만기전역
 - 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑 뺴고 전부 다
 - Email: sorilove@naver.com
 - GitHub: [github.com/jspiner](https://github.com/jspiner)
