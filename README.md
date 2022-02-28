@@ -8,12 +8,12 @@
 ![프로필이미지]()
 - 이름: 이동현
 - 군필여부: 병장 만기전역
-- 취미: 자전거, 등산, **카페코딩**, 여행, 캠핑, 보래부르기, 당구, 풋살
+- 취미: 자전거, 등산, **카페코딩**, 여행, 캠핑, 노래부르기, 당구, 풋살
 - Email: dhyyp1001@gmail.com
 - GitHub: [github.com/dhyyp1001](https://github.com/dhyyp1001)
 - LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+새로운 환경을 즐기며, 함께일하는 사람들과의 관계를 즐기고, 주어진 일을 즐깁니다.  
 ```
 
 ![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
